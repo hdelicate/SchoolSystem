@@ -57,6 +57,7 @@ namespace SchoolSystem
                     Console.WriteLine(People[i].ToString());
                 }
             Console.ReadLine();
+            //test
         }
     }
 }
